@@ -30,3 +30,22 @@ The app provides an interactive and visually engaging chat experience with a cus
 ## 📸 Screenshots
 
 "C:\Users\shaha\Pictures\Screenshots\Screenshot 2026-05-03 054451.png"
+
+---
+
+## 🚀 How to Run the Project
+
+### 1️⃣ Backend
+
+```bash
+cd backend
+npm install
+node server.js
+```
+### 2️⃣ Flutter App
+
+```bash
+cd flutter_app
+flutter pub get
+flutter run
+```

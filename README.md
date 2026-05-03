@@ -29,7 +29,7 @@ The app provides an interactive and visually engaging chat experience with a cus
 
 ## 📸 Screenshots
 
-"C:\Users\shaha\Pictures\Screenshots\Screenshot 2026-05-03 054451.png"
+assets/screenshots/home.png
 
 ---
 

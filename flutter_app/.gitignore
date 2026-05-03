@@ -1,0 +1,23 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# Android
+android/.gradle
+android/local.properties
+
+# iOS
+ios/Pods/
+
+# Node
+node_modules/
+.env
+
+# VS Code
+.vscode/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db

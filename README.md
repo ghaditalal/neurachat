@@ -80,12 +80,12 @@ The application follows a client-server architecture:
   http://YOUR_IP:3000/chat
 
 ## 📂 Project Structure
-
+```
 neurachat/
 ├── backend/        # Node.js server
 ├── flutter_app/    # Flutter mobile application
 ├── assets/         # Screenshots & images
-
+```
 ## 🚧 Challenges & Learning
 
 - Integrated Flutter with a Node.js backend

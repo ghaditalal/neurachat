@@ -29,7 +29,8 @@ The app provides an interactive and visually engaging chat experience with a cus
 
 ## 📸 Screenshots
 
-assets/screenshots/home.png
+![Home](assets/screenshots/home.png)
+![Chat](assets/screenshots/chat.png)
 
 ---
 
